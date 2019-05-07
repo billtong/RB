@@ -1,0 +1,5 @@
+=begin
+==
+.eql?
+equal?
+=end
