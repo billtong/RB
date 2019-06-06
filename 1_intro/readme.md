@@ -11,8 +11,10 @@ irb to enter the ruby shell.
 > result.nil?
 =>true
 ```
+## marks as part of code
 `?` - question mark after methods is a true/false test   
 `!` -  exclamation mark is to do something unexpected or dangerous, i.e to modify the object in place instead of returning the modified copy.
+`=` - equal mark usually use in virtual attributes
 ```shell
 > a = "  bill  "
 > a.strip

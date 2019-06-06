@@ -117,3 +117,6 @@ class Spaceship
 end
 Spaceship.thruster_count
 ```
+## Open Class & Monkey patching
+- to fix bug in thrid party library
+## Equality
