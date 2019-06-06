@@ -1,11 +1,11 @@
 class Spaceship
-    def launch(dest)
-        @dest = dest
-    end
+  def launch(dest)
+    @dest = dest
+  end
 
-    def getDest
-        @dest
-    end
+  def getDest
+    @dest
+  end
 end
 
 ship = Spaceship.new
